@@ -1,0 +1,104 @@
+---
+title: "ANTH 100-001 Syllabus"
+date: "Eastern Oregon University--Spring 2015"
+output:
+  html_document:
+    theme: united
+    toc: yes
+    toc_depth: 2
+  pdf_document:
+    highlight: zenburn
+    toc: yes
+    toc_depth: 2
+---
+
+### General Information
+
+| Course Number:  ANTH 100-101
+| Course Name:  Introduction to Anthropology
+| Credit Hours:  5.00
+| Course Time and Location: Online via [Canvas](https://www.eou.edu/lms/)
+
+
+### Instructor
+| Name:  [Trey Batey](https://people.eou.edu/ebatey/)
+| Email:  [ebatey@eou.edu](ebatey@eou.edu)
+| Voicemail: (541) 690-8193
+| Office location:  Virtual (online) office only
+
+
+### Course Description
+
+Anthropology is the **holistic**, scientific study of humanity. It is holistic in that addresses questions about all aspects of the human experience (e.g., origins and evolution, social behavior, ecology, language, etc.). Working in such a broad discipline, anthropologists draw upon and contribute to concepts and theories from the biological, physical, and social sciences, as well as the humanities. By and large, anthropology in the United States is organized into four subfields:  archaeology, biological/physical anthropology, cultural anthropology, and linguistic anthropology. This course will provide a holistic and comparative study of human life through a survey of these four subfields. It will acquaint students with the history, methods, and major concepts of the field and give an overview of the range of potential social problems that anthropologists are particularly well-positioned to help solve.
+
+
+### Required Texts
+The following text is required and available from the [EOU Bookstore](http://www.eoubookstore.com/buy_main.asp?). You may also [order it directly through the publisher](https://global.oup.com/academic/product/anthropology-9780190210847?q=Lavenda%20Schultz&lang=en&cc=us). See below for other purchase options.\     
+
+- | Lavenda, Robert H., and Emily Ann Schultz. *Anthropology: What Does it Mean to be Human?*. 3rd edition. Oxford University Press, 2014. **(E-book available through [CourseSmart](http://www.coursesmart.com/IR/3058874/9780190210908?__hdv=6.8))**
+
+
+
+### Learning Outcomes
+Upon successful completion of this course, students should be able to do the following:
+
+1. Describe how biology and culture relate as basic concepts of the discipline.
+
+2. Describe the subfield of **biological/physical anthropology** and the concept of **evolution**, particularly as it applies to the origin and development of 
+the human species.
+
+3. Describe the subfield of **archaeology**, including its methods (techniques of excavation/recovery, various dating techniques, and the differences between historical and pre-historical archaeology) and theories used for interpreting/reconstructing the past.
+
+4. Describe the subfield of **linguistic anthropology**, comprehending the basic concepts of descriptive linguistics and linguistic relativity, and the 
+relationship between language and society.
+
+5. Describe the subfield of **cultural anthropology**, including the concepts of ethnocentrism and cultural relativism, and appreciate the variety of ways of living 
+a life. 
+
+
+### Course Requirements and Grading
+Grades will be based on performance on four exams (including the final exam) (40% of total grade), participation in 7--8 discussion forums (35% of total grade), and weekly review quizzes (25% of total grade).     \     
+
+- **Weekly Review Quizzes (15%):**  These quizzes review students on the concepts and information presented each week. These quizzes range from 20--30 questions. Students may take each quiz a maximum of two times; the highest score is recorded. Each attempt is timed at 60 minutes, and you must complete in one sitting. Unless otherwise stated, __quizzes are available Friday through the end of the day Monday. Any/all attempts must be submitted by the end of the day (i.e., 11:59 PM) Monday__.   \ 
+
+- **Discussions (equally proportional, 35% of total grade):**  Students are responsible for actively participating in 7--8 discussion forums during the course of the term. These will be assigned most weeks, but some will not have this activity. In these activities. Typically, students will be given a prompt with a statement/story on which to react, or questions to address. Students will submit an initial thread addressing the prompt. Students must also submit at least two response posts, each to a different classmate's initial thread. __Post submission deadlines:__
+    + Initial threads must be submitted by the end of the day Thursday;
+    + Any/all response posts must be submitted by the end of the day Monday;
+    + Students must contribute to the discussion fourm on at least three separate days during the week; and
+    + No credit will be given for discussions in which the student submits all posts after the end of the day Monday.
+
+- **Exams (equally proportional, 40% of total grade):**  These exams will assess your understanding of all content (i.e., readings, lecture slides, and online resources provided in Canvas). Exams will not be cumulative; each will primarily address material *since* the prior exam (though terms, concepts, and other material directly addressed in earlier sections will be applied in later exams). 
+
+Exams will be taken in Canvas. You will have a 4-day window in which to complete each exam. The exams will be timed at 80 minutes. You will not be able to stop and return to the exam after you have begun taking it. ONCE YOU BEGIN TAKING AN exam, YOU MUST FINISH IT. Unless otherwise stated, __exams will be made available to students on Friday and due by 5:00 PM on Monday__. 
+
+The Final Exam will also be administered through Canvas. The Final Exam will be cumulative, covering all the material in the course. The Final Exam will be timed; you will have 2 hours to complete the exam. Like the other exams, you will not be able to stop and return to the exam after you have begun taking it. ONCE YOU BEGIN TAKING THE EXAM YOU MUST FINISH IT. The Final Exam will be available at the start of Finals Week, and __it must be submitted by 5:00 PM, Thursday, 11 June.__   \ 
+
+
+#### Grading Scale
+Letter grades are based on a standard, 10-point scale:  100-90% = A, 89-80% = B, 79-70% = C, 69-60% = D, and below 60% = F). All graded activities are graded with a point-to-percent system (i.e., percent grade = points earned/points possible). Your final grade, though, is determined by a __weighted average__ (see percents for assignment types above) of the different types of activities. For example, your average for discussion assignments counts for 35% of the final grade, so it is essential that you participate in all discussion activities.
+
+
+### Course Outline
+A tentative schedule for the course is available in the Intro Module. The instructor will make a concerted effort to adhere to the schedule outlined and will notify students of any changes/updates.
+
+
+### General Education Category and Outcomes
+This course counts toward GEC in the social sciences (SSC).
+
+
+### University Writing Requirement Outcomes
+This course does not satisfy UWR.
+
+
+### Statement on Academic Misconduct
+Eastern Oregon University places a high value upon the integrity of its student scholars. Any student found guilty of an act of academic misconduct (including, but not limited to, cheating, plagiarism, or theft of an examination or supplies) may be subject to having his or her grade reduced in the course in question, being placed on probation or suspended from the University, or being expelled from the University---or, a combination of these. For more information on EOU's policies regarding academic misconduct, please see the [Student Handbook](http://www.eou.edu/sse/student-handbook).
+
+
+### Statement on Americans with Disabilities
+If you have a documented disability or suspect that you have a learning problem and need accommodations, please contact [Disability Services](http://www.eou.edu/disability/) in Loso Hall 234. Telephone:  962-3081.\     
+\     
+\     
+
+-----------------------------------------
+##### Syllabus prepared by Trey Batey.
+##### Last updated 30 March 2015
